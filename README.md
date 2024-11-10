@@ -25,7 +25,7 @@ With the rise of social media, cyberbullying has become a critical issue affecti
 ## Screenshots
 
 ![Screenshot](Screenshots/screenshot-1.jpg)
-
+-------------------------------------------
 ![Screenshot](Screenshots/screenshot-2.jpg)
 
 ![Screenshot](Screenshots/screenshot-3.jpg)
