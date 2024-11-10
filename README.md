@@ -128,3 +128,4 @@ These metrics ensure balanced performance across classes and highlight the model
 
 ## Authors
 - [**Manish Kumar**](https://github.com/its-manishks)
+- [**Sumriddhi Tonk**](https://github.com/Softwaresr)
