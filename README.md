@@ -19,3 +19,9 @@ A machine learning project to detect cyberbullying across multiple languages usi
 - [Authors](#authors)
 
 ## Screenshots
+
+![Screenshot](Screenshots/screenshot-1.jpg)
+![Screenshot](Screenshots/screenshot-2.jpg)
+![Screenshot](Screenshots/screenshot-3.jpg)
+![Screenshot](Screenshots/screenshot-4.jpg)
+![Screenshot](Screenshots/screenshot-5.jpg)
